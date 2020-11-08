@@ -1,0 +1,6 @@
+com\antowka\service\SerialPortServiceImpl.class
+com\antowka\Resources.class
+com\antowka\Launcher.class
+com\antowka\Constants.class
+com\antowka\service\SerialPortService.class
+com\antowka\controller\MainWindowController.class
